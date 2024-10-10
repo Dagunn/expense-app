@@ -27,3 +27,5 @@ npm run dev
 ```sh
 npm run build
 ```
+### To see on site
+https://expense-app-vue.netlify.app
